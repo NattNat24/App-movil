@@ -1,0 +1,13 @@
+1. Clonar el repositorio de la aplicación móvil
+2. Acceder al directorio del proyecto
+3. Instalar las dependencias
+    npx expo install
+4. Iniciar el servidor de Expo
+    npx expo start
+5. Instalar Expo Go en el dispositivo móvil
+    iOS: Expo Go en la App Store
+    Android: Expo Go en Google Play
+6. Abrir la aplicación en Expo Go
+Abre la aplicación Expo Go en tu dispositivo móvil y escanea el código QR que aparece en la terminal.
+7. Ver la aplicación en el dispositivo móvil
+Después de escanear el código QR, Expo Go cargará y ejecutará la aplicación en tu dispositivo móvil.
